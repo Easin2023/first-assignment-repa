@@ -1,0 +1,44 @@
+/* font added my webpage */
+body{
+    font-family: 'Lato', sans-serif;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* header section */
+.header-conteiner-item{
+        display: flex;
+        background-color: #E554731A;
+        align-items: center;
+}
+.header-text{
+    padding:134px 134px 80px 134px;
+}
+.header-image{
+    width: 432px;
+    height: 554px;
+    padding-right: 80px;
+}
+.header-h1-tag{
+    color: #272727;
+    font-size: 47px;
+    font-weight: 800;
+    padding-right:130px ;
+}
+.header-paragraph{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 9px;;
+    font-weight: 400;
+    line-height: 20px;
+    padding:  7px 200px 7px 0px ;
+}
+.header-button{
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 11px;
+    border: 0px;
+}
