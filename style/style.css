@@ -252,3 +252,52 @@ body{
     padding-top: 5px;
     color: color: rgba(39, 39, 39, 0.80);;
 }
+/* extra section style */
+.extra-container{
+    display: flex;
+    /* justify-content: space-around; */
+    padding: 10px 65px 0px 10px;
+}
+.extra-image{
+    height:200px ;
+    width:140px ;
+}
+.extra-section-image-text{
+    padding: 5px;
+    border: 3px solid purple;
+    margin: 12px;
+    background-color:rgba(229, 84, 115, 0.10);
+    border-radius: 7px;
+}
+    
+.extra-section-image-text:hover{
+    box-shadow: 10px 10px 10px 10PX rgba(174, 114, 114, 0.4);
+}
+
+.extra-paragraph{
+    color: rgba(39, 39, 39, 0.60);;
+    font-size: 11px;
+    line-height: 15px;
+    /* padding: 8px 100px 8px 0px; */
+}
+.extra-title{
+    font-size: 18px;
+}
+.Purchase-sction{
+    padding-top: 150px;
+    text-align: center;
+}
+.buy-new-button{
+    padding: 5px;
+    margin: 6px;
+    background-color: #E55473;
+    border: 0px;
+    border-radius: 3px;
+}
+.Purchase-sction-paragraph{
+    text-align: center;
+    padding: 9px 400px 18px 400px ;
+    font-size: 11px;
+    color: rgba(39, 39, 39, 0.60);
+}
+
