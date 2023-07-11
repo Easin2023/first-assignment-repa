@@ -256,7 +256,7 @@ body{
 .extra-container{
     display: flex;
     /* justify-content: space-around; */
-    padding: 10px 65px 0px 10px;
+    padding: 10px 65px 0px 50px;
 }
 .extra-image{
     height:200px ;
