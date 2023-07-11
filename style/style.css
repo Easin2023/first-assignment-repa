@@ -62,11 +62,27 @@ body{
     padding: 20px 450px;
 }
 /* flower-container */
+.h4-tag{
+    display: flex;
+    justify-content: space-around;
+}
+.no-1{
+    padding-left: 50px;
+    color: #272727;
+}
+.no-2{
+    padding-right: 9px;
+    color: #272727;
+}
+.no-3{
+    padding-right: 90px;
+    color: #272727;
+}
 .flower-container{
     display: flex;
     justify-content: space-around;
     /* align-items: center; */
-    padding: 100px 110px;
+    padding:100px 110px 10px 110px;
 }
 .flower-2{
     padding-top: 60px;
@@ -213,4 +229,26 @@ body{
     font-size: 9px;
     font-weight: 400;
 
+}
+/* optional-section-style*/
+.optional-section{
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    display: flex;
+    justify-content: space-around;
+    height: 209px;
+    margin: 200px 130px;
+}
+.image-or-text{
+    padding: 38px;
+}
+.img-1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.optional-section-paraggraph{
+    font-size: 11px;
+    padding-top: 5px;
+    color: color: rgba(39, 39, 39, 0.80);;
 }
