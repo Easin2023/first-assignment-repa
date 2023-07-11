@@ -300,4 +300,17 @@ body{
     font-size: 11px;
     color: rgba(39, 39, 39, 0.60);
 }
+.head{
+    font-size: 60px;
+}
+.heading-text-design-1{
+    /* color: #E55473; */
+    font-size: 60px;
+}
+.off{
+    color: #E55473;
+}
+.up{
+    font-size: 60px;
+}
 
